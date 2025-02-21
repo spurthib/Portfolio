@@ -22,6 +22,7 @@ export default function Experience() {
           <li>Utilized <strong>Nomic Embed</strong> model for calculating embedding vectors to enhance similarity comparisons and improve response accuracy.</li>
           <li>Configured and managed <strong>AWS CLI</strong> to interact with AWS services, automating tasks such as <strong>resource provisioning</strong>, <strong>deployments</strong>, and <strong>monitoring</strong> through command-line operations.</li>
           <li>Leveraged <strong>AWS Bedrock</strong> to deploy pre-trained foundation models, enabling the development and scaling of customized <strong>AI/ML applications</strong> efficiently.</li>
+          <li>Leveraged <strong>aider-chat</strong>, an AI-driven coding assistant, to streamline software development processes, enhance code quality, and accelerate project timelines.</li>
           <li>Designed and implemented a <strong>benchmarking system</strong> using <strong>SQLite3</strong> to store and analyze LLM-generated results.</li>
           <li>Utilized <strong>Amazon S3</strong> to store data and integrated it with applications to facilitate <strong>file uploads</strong>, <strong>downloads</strong>, and <strong>sharing of assets</strong> in a cloud environment.</li>
           <li>Used <strong>GitLab</strong> to manage and update changes in project code, ensuring <strong>version control</strong>, <strong>collaboration</strong>, and seamless integration of new features and bug fixes.</li>
