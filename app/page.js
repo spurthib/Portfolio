@@ -57,39 +57,7 @@ function ContentBelowPic({ isMobile }) {
         </ul>
       </div>
 
-      {/* Social Links with Icons */}
-      <div style={{ 
-        marginTop: "30px", 
-        display: "flex", 
-        alignItems: "center", 
-        gap: "15px", 
-        justifyContent: "center", 
-      }}>
-        <a 
-          href="https://www.linkedin.com/in/spurthi-reddy-114921256" 
-          target="_blank" 
-          rel="noopener noreferrer" 
-          style={{ textDecoration: "none" }}
-        >
-          <img 
-            src="/LI-Logo.png" 
-            alt="LinkedIn" 
-            style={{ width: "100px", height: "30px" }} 
-          />
-        </a>
-        <a 
-          href="https://github.com/spurthib" 
-          target="_blank" 
-          rel="noopener noreferrer" 
-          style={{ textDecoration: "none" }}
-        >
-          <img 
-            src="/github-mark.png" 
-            alt="GitHub" 
-            style={{ width: "40px", height: "40px" }} 
-          />
-        </a>
-      </div>
+      
     </div>
   );
 }
